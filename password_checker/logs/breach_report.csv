@@ -1,0 +1,3 @@
+Password,Strength,Breached,Breach Count
+1234,Weak: Too short,True,30272674
+mataza04,Moderate: Add missing character types,False,0
